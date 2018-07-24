@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\asus\source\repos\15\15\source.cpp(17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\asus\source\repos\15\15\source.cpp(61): warning C4101: a: неиспользованная локальная переменная
+  15.vcxproj -> C:\Users\ASUS\source\repos\15\Debug\15.exe
